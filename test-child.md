@@ -1,7 +1,7 @@
 ---
 title: Child of Test
 parent: Test
-has_children: true
+has_children: False
 nav_order: 1
 ---
 
