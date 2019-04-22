@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Definition
 parent: About Electronic Waste
 has_children: False
