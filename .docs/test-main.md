@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Test
-has_children: true
+has_children: false
 nav_order: 2
-permalink: ENG-122-EWASTE-Project/.docs
+permalink: .docs
 ---
 # Another Test Page
 Test!
