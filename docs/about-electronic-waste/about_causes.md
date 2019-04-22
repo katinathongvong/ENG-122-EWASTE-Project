@@ -7,5 +7,5 @@ nav_order: 2
 permalink: /docs/about-electronic-waste/
 ---
 
-#Causes
+# Causes
 Beep boop beep e-waste causes
