@@ -4,7 +4,7 @@ title: Definition
 parent: About Electronic Waste
 has_children: False
 nav_order: 1
-permalink: /docs/about-electronic-waste
+permalink: /docs/about-electronic-waste/definition
 ---
 
 # Child
