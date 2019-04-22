@@ -3,7 +3,7 @@ layout: default
 title: Test
 has_children: True
 nav_order: 2
-permalink: /docs
+permalink: /docs/
 ---
 # Another Test Page
 Test!
