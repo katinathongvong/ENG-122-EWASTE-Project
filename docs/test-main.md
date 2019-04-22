@@ -7,3 +7,4 @@ permalink: /docs
 ---
 # Another Test Page
 Test!
+beep boop beep
