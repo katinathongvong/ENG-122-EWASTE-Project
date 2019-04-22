@@ -5,6 +5,6 @@ has_children: True
 nav_order: 2
 permalink: /docs/about-electronic-waste
 ---
-# Another Test Page
+# About Electronic Waste
 Test!
 beep boop beep
