@@ -7,6 +7,9 @@ nav_order: 1
 permalink: /docs/about-electronic-waste/definition/
 ---
 
-# Child
+# Definition of Electronic Waste
 
-I am a child page.
+![Some Test Tulips](https://homepages.cae.wisc.edu/~ece533/images/tulips.png)
+*Huzzah! An Image Caption*
+
+Content content content woop de woop
