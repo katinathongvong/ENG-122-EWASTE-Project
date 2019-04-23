@@ -1,7 +1,7 @@
-
-
 # Introduction
 
-Welcome to the Electronic Waste Impacts webpage!
+Welcome to the Electronic Waste Impacts webpage. This webpage details information about electronic waste, the negative impacts of electronic waste handling practices in developing countries, and a proposed three-part solution for reducing these negative impacts. 
 
-![A test image](https://cdn.worldvectorlogo.com/logos/github-octocat.svg)
+## Summary of Material
+Electronic waste consists of old or obsolete devices that no longer serve any favorable use. The generation of electronic waste in developing countries is often caused by a lack of consumer knowledge regarding electronic waste, shortened lifespans of electronics, and the exportation of electronic waste from developed countries to developing countries. The rapid generation and informal handling practices of electronic waste in developing countries has many negative impacts on human health, including increased risks of worker injury due to a lack of the utilization of personal protective equipment (PPE) and health risks associated with exposure to toxic substances present in the composition of electronic waste. Fortunately, there are specific interventions that can reduce these negative impacts on human health. These interventions have already been effectively implemented in the United States, including the utilization of PPE programs, the creation of take-back programs for deprecated electronic devices, and the implementation of regional-wide systems for the formal handling of electronic waste. 
+
