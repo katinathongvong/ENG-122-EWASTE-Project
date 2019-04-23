@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Negative Impacts
+title: Causes
 parent: About Electronic Waste
 has_children: False
 nav_order: 2
-permalink: /docs/about-electronic-waste/impacts/
+permalink: /docs/about-electronic-waste/causes/
 ---
 
 # Child2
