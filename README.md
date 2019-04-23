@@ -1,5 +1,4 @@
 # Introduction
-
 Welcome to the Electronic Waste Impacts website. This website details information about electronic waste, the negative impacts of electronic waste handling practices in developing countries, and a proposed three-part solution for reducing these negative impacts. The main content of this website is cited in APA format. Additionally, references can be found under the "Additional Resources" tab. 
 
 ## Summary of Material
