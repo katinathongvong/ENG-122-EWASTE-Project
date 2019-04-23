@@ -10,6 +10,7 @@ permalink: /docs/about-electronic-waste/definition/
 # Definition of Electronic Waste
 
 ![Some Test Tulips](https://homepages.cae.wisc.edu/~ece533/images/tulips.png)
+
 *Huzzah! An Image Caption*
 
 Content content content woop de woop
