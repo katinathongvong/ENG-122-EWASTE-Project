@@ -10,6 +10,7 @@ permalink: /docs/negative-impacts/worker-impacts/
 # Impacts on Worker Safety
 
 ![](https://countercurrents.org/wp-content/uploads/2018/12/e-waste1.jpg)
+
 Workers rarely use PPE
 {: .fs-3 }
 
