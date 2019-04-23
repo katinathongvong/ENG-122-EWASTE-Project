@@ -7,4 +7,4 @@ permalink: /docs/about-electronic-waste/
 ---
 
 # About Electronic Waste
-The following subpages provide an overview of the definition and causes of electronic waste, as well as current electronic waste handling practices. 
+The following subpages provide an overview of the definition and causes of electronic waste, as well as current electronic waste handling practices in developing countries.
