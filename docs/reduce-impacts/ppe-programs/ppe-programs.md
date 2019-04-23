@@ -18,5 +18,5 @@ More developed countries, specifically the United States, already have legislati
 
 Examples of PPE include hard hats, face shields, and earplugs. Figure 2 displays examples of PPE and their protection. It is important to note the effectiveness of the implementation of PPE programs in workplaces across the United States. These procedures have decreased worker injuries and illnesses from 10.9 incidents per 100 workers in 1972 to 2.8 incidents per 100 workers in 2017 in the United States (Occupational Safety and Health Administration, n.d.a., OSHA is Making a Difference section, para. 1). Thus, workplaces in developing countries that deal with the handling of electronic waste could benefit greatly from the implementation of PPE programs, especially in the reduction of workplace injuries.
 
-
+![](ppetable.PNG)
 
