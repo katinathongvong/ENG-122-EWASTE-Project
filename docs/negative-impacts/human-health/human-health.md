@@ -10,6 +10,7 @@ permalink: /docs/negative-impacts/human-health/
 # Impacts on Human Health
 
 ![](http://myscienceschool.org/uploads/Lead.serendipityThumb.jpg)
+
 Lead
 {: .fs-3 }
 
