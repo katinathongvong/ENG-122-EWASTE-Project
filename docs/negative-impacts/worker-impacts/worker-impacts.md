@@ -1,3 +1,4 @@
+---
 layout: default
 title: Impacts on Worker Safety
 parent: Negative Impacts
