@@ -2,7 +2,7 @@
 layout: default
 title: Additional Resources
 has_children: True
-nav_order: 6
+nav_order: 7
 permalink: /docs/reduce-impacts/
 ---
 
