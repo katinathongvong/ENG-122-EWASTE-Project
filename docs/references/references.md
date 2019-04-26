@@ -4,6 +4,7 @@ title: References
 has_children: True
 nav_order: 5
 permalink: /docs/references/
+has_toc: False
 ---
 
 # References
