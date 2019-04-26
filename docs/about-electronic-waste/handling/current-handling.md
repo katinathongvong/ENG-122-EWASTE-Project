@@ -9,7 +9,7 @@ permalink: /docs/about-electronic-waste/handling/
 
 # Current Handling Practices
 ![Electronic Waste Workers](https://www.freepressjournal.in/wp-content/uploads/2017/12/Wastebiz-dec-15.jpg)
-Informal electronic waste handling. Retrieved from https://www.freepressjournal.in/wp-content/uploads/2017/12/Wastebiz-dec-15.jpg
+Informal electronic waste handling. Retrieved from [https://www.freepressjournal.in/wp-content/uploads/2017/12/Wastebiz-dec-15.jpg](https://www.freepressjournal.in/wp-content/uploads/2017/12/Wastebiz-dec-15.jpg)
 {: .fs-3 }
 
 Much of the electronic waste that is generated in developing countries is handled informally. Thus, there are often little environmental or safety regulations regarding which practices workers choose to utilize. Workers partake in elementary practices to recycle and dispose of electronic waste such as dismantling materials with their bare hands, utilizing acid baths to extract various metals, and burning substances such as wires and plastics without ventilation or environmental controls (Annamalai, 2015, p. 63, Health Hazards section, para. 1-3). The informal and elementary nature of these practices can have detrimental impacts on human health.
