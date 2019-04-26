@@ -7,5 +7,4 @@ permalink: /docs/negative-impacts/
 ---
 
 # Negative Impacts
-Test! 2!
-beep boop beep
+The following subpages provide an overview of the impacts of improper electronic waste disposal on worker safety and human health in developing countries.
