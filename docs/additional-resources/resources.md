@@ -4,6 +4,7 @@ title: Additional Resources
 has_children: True
 nav_order: 7
 permalink: /docs/reduce-impacts/
+has_toc: False
 ---
 
 # Additional Resources
